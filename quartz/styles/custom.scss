@@ -3493,23 +3493,25 @@ settings:
         id: clear-heading-6
         type: class-toggle
 */
-/*Theme fixes*/
-.img-adj-list :is(ul, ol) {
-  display: flow-root;
-}
-
-// Target images with the portrait alt tag specifically
-img[alt~="portrait"], 
-img[alt*="left"], 
-img[alt*="right"] {
-    display: inline !important; // Overrides Quartz's block-level default
-    float: right;               // Or 'left' depending on your ITS flag
-    max-width: 40% !important;  // Ensure it doesn't eat the whole line
+/* Default Portrait (Left) */
+img[alt~="portrait"] {
+    display: inline !important;
+    float: left !important;
+    max-width: 35% !important;
     height: auto;
-    margin: 0.5rem 0 1rem 1rem;
+    margin: 0.5rem 1.5rem 1rem 0;
 }
 
-// Ensure the parent container doesn't collapse
-.p-content, .article, article {
-    display: flow-root; 
+/* If you add |right to the pipe: ![[img.jpg|portrait right]] */
+img[alt~="right"] {
+    float: right !important;
+    margin: 0.5rem 0 1rem 1.5rem !important;
 }
+
+// Ensure headers in Quartz clear the portrait float
+h1, h2, h3, h4, h5, h6, .p-header {
+    clear: both !important;
+    display: flow-root !important; 
+    margin-top: 2rem !important;
+}
+

@@ -131,5 +131,5 @@ Sylvaner entspringen den Knospen des Lebensbaums Sylvir in Tera'Ûhr. Sylvir ent
 ##### [[Gnolle der Mittleren Steppe]]
 Die Gnolle der Mittleren Steppe verehren das Land, in dem sie leben. Ihre Wiege ist weitläufig, undefiniert und wechselt den Standort bei jedem großen Fest, das sie abhalten.  Sie sind stark, beständig und legen Wert auf Freunde und Familie.
 
-##### [[Zwerge des Nördlichen Alpengrats]]
+##### [[Zwerge des Mittleren Alpengrats]]
 Die Zwerge des Nördlichen Alpengrats bilden eine Föderale Republik. Sie sind Technologisch äußerst fortgeschritten, und sind meist an der Speerspitze neuer Erfindungen, Ingenieurskunst und Bildung. 

@@ -14,6 +14,6 @@ Die Gnolle der Mittleren Steppe verehren das Land, in dem sie leben. Ihre Wiege 
 
 Sie bevorzugen, dass ihr Fell trocken bleibt, und obwohl sie den Regen schätzen, suchen sie Schutz und kauern sich ein, bis er vorüber ist. Spirituell ist dies eine Zeit für Gemeinschaft und Ruhe.
 
-## [[Zwerge des Nördlichen Alpengrats]]
+## [[Zwerge des Mittleren Alpengrats]]
 
 Die Zwerge des Nördlichen Alpengrats bilden eine Föderale Republik. Sie sind Technologisch äußerst fortgeschritten, und sind meist an der Speerspitze neuer Erfindungen, Ingenieurskunst und Bildung. Sie haben den Alpengrat mit Tunneln, Minen und Städten durchzogen. Die Oberfläche ist meist Brach und in Wüstenähnlichen Zuständen, sofern nicht von den Zwergen bestellt. Vor langer Zeit, in der feudalen Ära waren die kleinen Königreiche verstritten. Die Machtgier der Herrscher versklavte sie in den Minen. Doch die Brüder Sindri und Brokk leiteten die Revolutionäre Befreiuung und zusammen mit den Kumpels wurde die Union der Zwerge ausgerufen.

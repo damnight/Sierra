@@ -19,7 +19,7 @@ In dieser Story-Driven Kampagne wird es Quests und Encounter geben die lange Kon
 
 Wir begeben uns in die Eisige Tundra in der man besser Freunde oder Gefährten hat um die Reise zu erleichtern oder Schätze zu finden.
 
-![[Sierra-Region-Nord-Ost.jpg]]
+![[Sierra Region Nord-Ost.jpg]]
 
 ## Zu der Kampagne
 Das Spieler Dokument müsst ihr euch nicht vollständig durchlesen und soll auch als Nachschlagewerk dienen.  

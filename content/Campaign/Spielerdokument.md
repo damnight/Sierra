@@ -28,10 +28,10 @@ In den Appendix findet ihr extra Inhalt. Das ist bewusst ein Appendix, weil ihr 
 
 Vorweg, es ist nicht eine Icewind Dale Kampagne, die nördliche Region is lose/flavour darauf basiert.
 
-Das Ziel sind ca. 20 Sessions, und is in sich schlüssig. Falls es Spaß macht, kann sie auch Akt1 für mehr sein :)  
+Das Ziel sind ca. 20 Sessions, und is in sich schlüssig. Falls es Spaß macht, kann sie auch Akt 1 für mehr sein :)  
 
 ### Ton
-Ich möchte einen Ton zwischen Herr der Ringe und Pirates of the Caribbean finden. Eine ernst zunehmende Geschichte, eine teils wahrlich gefährliche Welt aber auch genug Raum für Humor und Leichtherzigkeit. Der Ton soll immer mal wieder, den Aufgaben und Bedingungen gemäß springen dürfen. Ich möchte das nicht festschreiben sondern lieber einen gemeinsamen Nenner mit euren Charakter Konzepten und der Welt und Situation finden. Die Südsee Kampagne ist tonal ein Vorbild.
+Ich möchte einen Ton zwischen Herr der Ringe und Pirates of the Caribbean finden. Eine ernst zunehmende Geschichte, eine teils wahrlich gefährliche Welt aber auch genug Raum für Humor und Leichtherzigkeit. Der Ton soll immer mal wieder, den Aufgaben und Bedingungen gemäß springen dürfen. Ich möchte das nicht festschreiben sondern lieber einen gemeinsamen Nenner mit euren Charakter Konzepten und der Welt und Situation finden. Die Südsee Kampagne ist tonal ein Vorbild und natürlich One Piece.
 
 ### Realismus
 D&D ist Fantasy und wir spielen auch Fantasy. Dinge müssen nicht eins zu eins wie in der echten Welt geschehen und können mit Magie weg erklärt werden. Ihr werdet schnell zu besonderen Personen werden, und würde es gerne in die Charakter Domäne schieben wie realistisch ihr sein möchtet. Wichtig wäre interne Konsistenz mit eurem Charakter. Ansonsten orientiere ich mich hier an klassischem D&D. "Nachteile" (im Sinne Power Gaming's) die ihr euch durch Realismus verschafft, werden gemäß Kapitel "_Interaktionen und Rule of Cool_" durch DM Inspiration belohnt.  

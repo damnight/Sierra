@@ -3,7 +3,7 @@ publish: "true"
 ---
 a change
 # Willkommen in Sierra
-In dieser von Götter verlassenen Welt, kämpfen Königreiche, Republiken und Imperien um ihre Vorherrschaft über die von Kriegen geschundenen Lande. Der hohe Rat der Paladine des [[Das Reich der Sonne | Reichs der Sonne]] und unter dem Bann der [[Àine, Die Summerhexe, Die Unterdrückung|Sommer Hexe Àine]], führt einen Hundert Jahre Krieg gegen die [[Geopraphie/Die Union der Zwerge|Union der Zwerge]] und ihren mächtigen Kriegsmaschinen.  
+In dieser von Götter verlassenen Welt, kämpfen Königreiche, Republiken und Imperien um ihre Vorherrschaft über die von Kriegen geschundenen Lande. Der hohe Rat der Paladine des [[Das Reich der Sonne | Reichs der Sonne]] und unter dem Bann der [[Àine, Die Sommerhexe, Die Unterdrückung|Sommer Hexe Àine]], führt einen Hundert Jahre Krieg gegen die [[Geopraphie/Die Union der Zwerge|Union der Zwerge]] und ihren mächtigen Kriegsmaschinen.  
 Im Süden herrscht die [[Flora, Die Frühlingshexe, Die Verwüstung|Frühlings Hexe Flora]] über [[Tera'Ûhr|Tera'Ûhr]], isoliert von der Außenwelt in ihrem undurchdringlichen Dschungel. In den [[Der Dunkle Wald| Dunklen Wäldern]] südlich des Dschungels und in den dichten Wäldern der Alpen des Nordens jagt die [[Neith, Die Herbsthexe, Die Jägerin| Herbst Hexe Neith]] all jene die es wagen einzudringen.  
 Schließlich im hohen Norden, dem [[Eiswind Tal|Tal des Eisigen Windes]], erstarrt das Land unter dem ewigen Eis der [[Auril, Die Winterhexe, Die Ewigkeit |Winter Hexe Auril]]. 
 
@@ -15,7 +15,7 @@ Es wird eine gefährliche Aufgabe, wo unsere Helden gut beraten wären, sich Fre
 
 Die Reise zum [[Das Nordfort |Nordfort]], das unweit des Obelisken liegt, wird mit dem frisch eingeweihten [[Der Alpen Express | Alpen Express]] angetreten. Selbstverständlich wird der Ticket Preis bei Erfolg erstattet (im Todes Falle nicht übertragbar).
 
-In dieser Story-Driven Kampagne wird es Quests und Encounter geben die lange Konsequenzen tragen. Schwere Kämpfe und Schlachten, die starke Krieger oder Magier fordern. Politik und Social Encounter die geschickte Diplomaten vor Herausforderungen stellen, und eine Welt in der viele verschiedene [[Factions |Fraktionen]] um Macht, Einfluss oder dem blanken Überleben kämpfen.
+In dieser Story-Driven Kampagne wird es Quests und Encounter geben die lange Konsequenzen tragen. Schwere Kämpfe und Schlachten, die starke Krieger oder Magier fordern. Politik und Social Encounter die geschickte Diplomaten vor Herausforderungen stellen, und eine Welt in der viele verschiedene [[Fraktionen]] um Macht, Einfluss oder dem blanken Überleben kämpfen.
 
 Es gibt viele Aufgaben zu meistern um die Gefahren die Sierra aktuell und in Zukunft bedrohen abzuwenden. So werden sich nicht nur eine Heldengruppe auf die Reise begeben die Geheimnisse der [[Obelisk|Obeliske]] zu lüften und die Fraktionen die böses im Schilde führen zu bekämpfen.
 
@@ -51,7 +51,7 @@ Der Punkt hier ist ein bisschen weit in die Zukunft gedacht und könnte in diese
 Dieses Kapitel führt euch in die Besonderheiten von Sierra ein.
 
 ### Religion
-In dieser Welt gibt es keine [[Die Götter | Götter]]. Ebenso keine [[Die Ur Drachen |Wahren Drachen]]. In ihrer Statt sind andere mächtige Wesen getreten. Im Norden dieses Kontinents sind vor allem die [[Die Hexen der Vier Jahreszeiten | Hexen der Vier Jahreszeiten ]]die Machtpole. Jedoch haben die meisten Kulturen ihre eigenen [[Patrone |Patronen]]. Die [[Die Union der Zwerge |Zwerge in der Union]] verehren ihre Gründungsväter [[Brokk]] und [[Sindri]]; In Trinity wird meist dem Gründer [[Arturuk | Arturuk]] dem Mutigen und seinem lesser Bronze [[Borak | Drachen Borak]] gedacht. Borak's Nachfahren leben noch heute in der Klippe unter Trinity College.  
+In dieser Welt gibt es keine [[Die Götter | Götter]]. Ebenso keine [[Die Ur Drachen |Wahren Drachen]]. In ihrer Statt sind andere mächtige Wesen getreten. Im Norden dieses Kontinents sind vor allem die [[Fraktionen#Die Hexen der Vier Jahreszeiten|Hexen der Vier Jahreszeiten ]]die Machtpole. Jedoch haben die meisten Kulturen ihre eigenen [[Patrone |Patronen]]. Die [[Die Union der Zwerge |Zwerge in der Union]] verehren ihre Gründungsväter [[Brokk]] und [[Sindri]]; In Trinity wird meist dem Gründer [[Arturuk | Arturuk]] dem Mutigen und seinem lesser Bronze [[Borak | Drachen Borak]] gedacht. Borak's Nachfahren leben noch heute in der Klippe unter Trinity College.  
 
 ### Seelenkreislauf und Artenvielfalt
 Alle Seelen entspringen den vielen [[Die Quellen des Lebens |Quellen des Lebens]], der Brunnen des Ursprungs, der Wiegen des Lebens, der Lebensbäume und je nach [[A - Arten und Kulturen|Kultur]], auch andere Namen und Konzepte.

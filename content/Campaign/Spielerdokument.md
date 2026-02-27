@@ -1,7 +1,6 @@
 ---
 publish: "true"
 ---
-a change
 # Willkommen in Sierra
 In dieser von Götter verlassenen Welt, kämpfen Königreiche, Republiken und Imperien um ihre Vorherrschaft über die von Kriegen geschundenen Lande. Der hohe Rat der Paladine des [[Das Reich der Sonne | Reichs der Sonne]] und unter dem Bann der [[Àine, Die Sommerhexe, Die Unterdrückung|Sommer Hexe Àine]], führt einen Hundert Jahre Krieg gegen die [[Geopraphie/Die Union der Zwerge|Union der Zwerge]] und ihren mächtigen Kriegsmaschinen.  
 Im Süden herrscht die [[Flora, Die Frühlingshexe, Die Verwüstung|Frühlings Hexe Flora]] über [[Tera'Ûhr|Tera'Ûhr]], isoliert von der Außenwelt in ihrem undurchdringlichen Dschungel. In den [[Der Dunkle Wald| Dunklen Wäldern]] südlich des Dschungels und in den dichten Wäldern der Alpen des Nordens jagt die [[Neith, Die Herbsthexe, Die Jägerin| Herbst Hexe Neith]] all jene die es wagen einzudringen.  

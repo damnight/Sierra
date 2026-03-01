@@ -1,6 +1,9 @@
 ---
 publish: "true"
 ---
+# Kurzbeschreibung
+Trinity ist eine riesige Stadt am Fuße des [[Der Mittlere Alpengrat|Mittleren Alpengrats]]. Sie ist unter den [[Drachen Klippen]] erbaut worauf das [[Trinity College]] steht. Die Stadt umringt den tiefen [[See der Freundschaft]]. Im Hafen werden Schiffe beladen und entladen um ihre Fracht auf dem [[Danuve]] zu verschiffen. Trinity ist Multikulturell aber es gibt dennoch Distrikte die sich auf die eine oder andere Kultur spezialisieren. Durch ihre nähe zur [[Unterwelt]] ist auch die [[Trinity Unterstadt]] stark bevölkert.
+![[Trinity.jpg|800]]
 # Die Geschichte der Stadt
 Trinity ist eine große multikulturelle Stadt, gegründet im Jahr 440 AMC von [[Arturuk dem Tapferen]] am Rande der Bronze‑Drachen Klippen. 
 Arturuk war eine fast mythische Gestalt, die in Herz, Seele und Tapferkeit herausragte. Er war der erste Freund der Drachen südlich des [[Der Nördliche Alpengrat|Nördlichen Alpengrats]]. Er gewann ihr Vertrauen und vergoldete es hundertfach, sodass die Drachen ihm ein zeitloses Blutband gewährten – ein Band unbekannter Kraft, das in der Geschichte dieser Welt ungebrochen blieb. Nachfolgende Generationen profitierten davon und wurden fortan den Drachen treu verbunden.

@@ -1,10 +1,9 @@
 ---
 publish: "true"
 ---
-
 # Geographie
 Die Freie Handelsstadt von Kalashar liegt an der Westküste des [[Der Große Kontinent|Großen Kontinents]], am Delta wo der [[Tibris]] und [[Danuve]] ins [[Egeo Pelagos]] münden.
-
+![[kalasharPort.webp]]
 # Bevölkerung
 Eine diverse Mischung aller Kulturen der Welt finden sich hier.
 

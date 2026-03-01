@@ -1,10 +1,11 @@
 ---
 publish: "true"
 ---
-
 # Geographie
 Das Reich der Sonne liegt zwischen dem [[Danuve]] und [[Tera'Ûhr]] im Süden sowie dem [[Der Nördliche Alpengrat|Nördlichen Alpengrat]] im Norden. Zum Osten liegt die [[Die Mittlere Steppe|Mittlere Steppe]] und [[Die Front|die Front]] sowie der [[Der Mittlere Alpengrat|Mittlere Alpengrat]]. Die Westküste ist von [[Die Freie Handelsstadt von Kalahar|der Freien Handelsstadt von Kalashar]] dominiert.
 Der größte Fluss der Region ist der [[Tibris]] der unterhalb der Hauptstadt [[Empyria]] fließt Richtung Westen fließt.
+![[reichdersonne.jpg]]
+
 # Bevölkerung
 Auch das Reich der Sonne ist sehr divers, doch dominieren hier vor allem Menschen und Elfen das Bild.
 

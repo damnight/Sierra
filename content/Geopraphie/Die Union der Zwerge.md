@@ -3,7 +3,7 @@ publish: "true"
 ---
 # Geographie
 Die Union der Zwerge erstreckt sich von dem [[Der Mittlere Alpengrat|Mittleren Alpengrat]] bis an die Ostküste des Kontinents. Die Union erstreckt sich vor allem vertikal zwischen den Spitzen der Berge bis in die tiefen der [[Unterwelt]]. Inzwischen sind die Minen so tief, weit und lang, dass sie selbst zu einer Geographischen Einheit geworden sind.
-
+![[unionDerZwergelandschaft.jpg]]
 # Bevölkerung
 Hauptsächlich bevölkert von Zwergen und ihrer langen Geschichte in der Gegend sind viele andere Kulturen hinzugekommen, oder waren schon dort, und hatten früher keine große politische Bedeutung. Hauptsächlich leben in diesem Gebiet Zwerge, Kobolde, Deep Gnomes und Goblins.
 

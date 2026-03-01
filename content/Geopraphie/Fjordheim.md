@@ -3,6 +3,7 @@ publish: "true"
 ---
 # Geographie
 Fjordheim liegt im hohen Nord-Westen des [[Egeo Pelagos]]. Es ist ein kalter Ort, mit drei tiefen Fjorden auf der östlich Seite der Insel. Im Inneren liegt ein Süßwasser See, der von Gletscher und Schmelzwasser der Berge genährt wird.
+![[fjordheimVillage.jpg]]
 
 # Bevölkerung
 Den Großteil der Bevölkerung machen Goliaths aus.

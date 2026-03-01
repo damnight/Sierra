@@ -4,6 +4,7 @@ publish: "true"
 # Geographie
 Die Insel Aido befinden sich zwischen [[Der Große Strom|dem Großen Strom]] im Süd-Westen des [[Egeo Pelagos]]. 
 Die Geographie wird von dem großen Vulkan Entai bestimmt. Regelmäßig bricht Entai aus und zerstört die Felder auf der Insel. In diesen Zeiten ist Aido oft Monate lang von Lebensmittelimporten abhängig. 
+![[aidoCity.jpg]]
 
 # Bevölkerung
 Auf Aido leben hauptsächlich Elfen aller Art und eingewanderte Seefahrer, die meist auf anderen Inseln des [[Egeo Pelagos]] geboren wurden. Besonders Goliath aus [[Fjordheim]] stechen durch ihre stattliche Statur aus der Menge heraus.

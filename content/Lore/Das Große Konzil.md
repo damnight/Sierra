@@ -4,7 +4,9 @@ publish: "true"
 # Das Große Konzil
 Das Große Konzil war ein Zusammentreffen der meisten großen Mächte nördlich des [[Der Große Strom|Großen Stroms]]. Das Konzil fand über ein volles Jahr statt und viele diplomatische Entscheidungen wurden getroffen. Eine Auswahl der Bestimmungen sind im nächsten folglich aufgelistet.
 
-	Dieses Dokument ist für euch Spieler nicht wichtig zu wissen. Hier sind einige Worldbuilding Notizen, sehr technischer Art, aufgelistet, die ihr während des Spiels sowieso lernt. Natürlich kann es als Nachschlagewerk dienen, falls etwas unklar ist.
+	Dieses Dokument ist für euch Spieler nicht wichtig zu wissen. 
+	Hier sind einige Worldbuilding Notizen, sehr technischer Art, aufgelistet,
+	die ihr während des Spiels sowieso lernt. Natürlich kann es als Nachschlagewerk dienen, falls etwas unklar ist.
 
 ## Bestimmung zur Internationalen Zeitrechnung
 Mit dem Ende des Großen Konzils beginnt das Jahr 0 MC.

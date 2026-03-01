@@ -28,9 +28,8 @@ In diesem Kapitel findet ihr Beschreibungen zu Regionen, Einwohnern, Politik, Ge
 ## Städte
 - [[Trinity]]
 - [[Kulm]]
-- [[Empyria]]
+- [[Erzheim]]
 - [[Das Nordfort]]
-- [[Bryn Shander]]
 
 
 # Lore

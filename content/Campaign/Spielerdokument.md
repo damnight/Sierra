@@ -8,11 +8,9 @@ Schließlich im hohen Norden, dem [[Eiswind Tal|Tal des Eisigen Windes]], erstar
 
 Einzig [[Trinity |Trinity]], eine imposante unabhängige Stadt vermochte sich von all diesen Konflikten mit Diplomatie, Bildung und Glück herauszuhalten. Dort erfährt die Bürgermeisterin [[Carla Custodia]] von den wissbegierigen Artificer des [[Trinity College]], dass sich am Rande des [[Eiswind Tal| Eiswind Tals]] eine Gefahr zusammenbraut die das Gleichgewicht der Kräfte auszuhebeln vermag. Augenzeugen sprechen von einem [[Obelisk |Obelisken]], so schwarz, dass kein Licht reflektiert. Gefährliche Wesen und seltsame Geschehnisse treten in ihrer Umgebung auf. Ihre Sensoren können es nicht aufspüren, vielmehr ist der Mangel des Signals, und die Ausbreitung dieses Lochs, nicht ganz ohne Muster, das was die Artificer beunruhigt.
 
-So schreibt die Bürgermeisterin im Auftrag des Trinity College eine Aufgabe aus. Den Obelisken zu sichten, die Artificer bei der Datensammlung zu unterstützen und die Spur zu verfolgen, wohin sie auch führen mag.
-
 Es wird eine gefährliche Aufgabe, wo unsere Helden gut beraten wären, sich Freunde statt Feinde zu machen. Denn sie sind nicht die einzigen die den Obelisken untersuchen, und womöglich schlimmer, nutzen wollen.
 
-Die Reise zum [[Das Nordfort |Nordfort]], das unweit des Obelisken liegt, wird mit dem frisch eingeweihten [[Der Alpen Express | Alpen Express]] angetreten. Selbstverständlich wird der Ticket Preis bei Erfolg erstattet (im Todes Falle nicht übertragbar).
+Die Reise zum [[Das Nordfort |Nordfort]], das unweit des Obelisken liegt, wird mit dem frisch eingeweihten [[Der Alpen Express | Alpen Express]] angetreten. Selbstverständlich wird der Ticket Preis bei Erfolg erstattet (im Todes Falle nicht übertragbar). Es ist das Herzstück des Erfinders und Chefingenieurs [[Richard Stephanson]]. Der Alpen Express hat eine historisch luxuriös ausgestattete Erste Klasse, ein Phönix Feder prämiertes Restaurant, Sport, Sauna und Entspannungsmöglichkeiten sowie Unterhaltung für alle Fahrgäste. Die Zweite Klasse bietet für die sparsamen Fahrgäste eine schnelle, sichere und angenehme Verbindung zwischen Trinity, und dem Nordfort. Fahrgäste aller Art sind herzlich eingeladen sich an den Alpen Express und einer angenehmen Reise zu erfreuen. Für jene mit viel Gepäck oder Waren stehen gesicherte Cargo Wagen zur Verfügung.
 
 In dieser Story-Driven Kampagne wird es Quests und Encounter geben die lange Konsequenzen tragen. Schwere Kämpfe und Schlachten, die starke Krieger oder Magier fordern. Politik und Social Encounter die geschickte Diplomaten vor Herausforderungen stellen, und eine Welt in der viele verschiedene [[Fraktionen]] um Macht, Einfluss oder dem blanken Überleben kämpfen.
 
@@ -116,16 +114,44 @@ Standard + 1d6 (oder 3) common, 1d4 (oder 2 uncommon), und 1 rare magic Item
 
 Ihr bekommt auf Level 2 einen zusätzlichen Feat eurer Wahl, der euer besonderes Talent unterstreicht.  
 
+### Backstory Anker
+Um ein paar Ideen zu inspirieren gebe ich euch hier noch ein paar Gedanken und Fragen die ihr mit euren Charakteren verbinden oder beantworten könnt. Bei allen Gedankenanstößen erzähle ich in Backstory Gesprächen gerne mehr um nicht alles, allen, von vornherein zu verraten.
+
+Weil wir den Fokus am Anfang auf die Zug Reise legen, die ein Setpiece ist, fokussiere ich erstmal dazu. Allerdings ist das Mysterium um den [[Obelisk]] und die Politische Verzwickung zwischen den Republiken, Regionen und Imperien für die weitere Geschichte relevanter. Während der Fahrt werdet ihr in diese eingeführt (dafür war der erste Arc auch gedacht). Entsprechend könnt ihr auch währenddessen genug Gründe finden weitermachen zu wollen.
+Besonders mächtige Fahrgäste sind weniger an der Zugfahrt selbst, sondern an dem sich zusammenbrauenden und radikalisierenden Konflikt, den das erscheinen des [[Obelisk|Obelisks]] prophezeit, interessiert. Jedenfalls solange bis Probleme während der Zugfahrt sie persönlich betreffen.
+
+Es werden viele Persönlichkeiten auf der ersten Reise präsent sein
+- An Board werden sicher sein
+	- Professionelle, wie Köche, Musiker, Ingenieure, Politiker und Diplomaten, Geistliche, Forscher, Sportler
+	- Zivile Fahrgäste aus allen Gesellschaftlichen Schichten
+	- Tunichtgute und Wesen die den Frieden stören
+
+Weitere Themen
+- Angebote im Alpen Express
+	- Ist es eine kulinarische, kulturelle oder Urlaubs Reise und das Ziel ist das Erlebnis statt dem Ankunftsbahnhof? Der Alpen Express bietet ein erstklassiges Restaurant und einen Veranstaltungs Wagen in dem diverse Auftritte stattfinden. Bands, Theater, Shows und so weiter.
+	- Der Zug ist mit Abstand die schnellste Verbindung zum Nordfort.
+- Mystery
+	- Seid ihr etwas oder jemanden auf der Spur? Gestohlenes Gut, Mörder, Sekten, Spionen und Spionage, Agenten des Guten oder Bösen
+- Talent
+	- Seid ihr selbst auf dem Zug engagiert, beispielsweise Musiker, Showmaster oder Komiker?
+	- Freelancing für eine ungefüllte Lücke im Personal?
+
+Ein Wort zu den Themen die die Mächtigen umtreibt
+- Diplomatie
+	- Hat euer Charakter eine Meinung zum Krieg zwischen dem [[Das Reich der Sonne|Reich der Sonne]] und der [[Die Union der Zwerge|Union der Zwerge]]?
+	- Habt ihr eine besondere Beziehung oder Abneigung zu mächtigen Wesen dieser Welt, beispielsweise der [[Fraktionen#Die Hexen der Vier Jahreszeiten|Hexen der Vier Jahreszeiten]]
+	- Habt ihr eine Verbindung zum Zielort dem [[Das Nordfort|Nordfort]] oder weiter dem [[Eiswind Tal]]?
+	- Seid ihr geneigt den Obelisk zu sichten und erforschen im Sinne Trinitys oder entgegen?
+- Personen und Fraktionen
+	- Erwartet ihr eine spezielle Person auf dem Express die ihr treffen wollt?
+	- Seid ihr selbst Teil einer Fraktion, die ihre eigenen Interessen auf dem Express oder am Ziel hat?
+	- Versucht ihr eine Person oder Fraktion zu untergraben?
+
+
 ## Appendix
 Hier noch ein paar Zusätze die keineswegs fest stehen und gerne ergänzt, verändert oder gelöscht werden können.  
 
-### [[A - Arten und Kulturen]]
-
-##### [[Sylvaner]]
-[[Sylvaner]] entspringen den Knospen des Lebensbaums [[Syndir]] in [[Tera'Ûhr]]. Syndir entsprang vor zehntausenden von Jahren, doch ist wenig darüber in der Außenwelt bekannt. 
-
-##### [[Gnolle der Mittleren Steppe]]
-Die Gnolle der Mittleren Steppe verehren das Land, in dem sie leben. Ihre Wiege ist weitläufig, undefiniert und wechselt den Standort bei jedem großen Fest, das sie abhalten.  Sie sind stark, beständig und legen Wert auf Freunde und Familie.
-
-##### [[Zwerge des Mittleren Alpengrats]]
-Die Zwerge des Nördlichen Alpengrats bilden eine Föderale Republik. Sie sind Technologisch äußerst fortgeschritten, und sind meist an der Speerspitze neuer Erfindungen, Ingenieurskunst und Bildung. 
+- [[A - Arten und Kulturen]]
+- [[F - Feats]]
+- [[M - Magic Items]]
+- [[S - Spells]]

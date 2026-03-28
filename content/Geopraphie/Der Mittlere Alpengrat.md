@@ -6,10 +6,11 @@ Der Mittlere Alpengrat erstreckt sich von [[Kleinhausen]] über [[Trinity]] bis 
 ![[mittlererAlpengratLandscape.jpg]]
 
 # Bevölkerung
-Von besonderer Bedeutung sind die Bronze Drachen die ihr Zuhause in den [[Drachen Klippen]] über [[Trinity]] haben.
+Von besonderer Bedeutung sind die Kupfer Drachen die ihr Zuhause in den [[Drachen Klippen]] über [[Trinity]] haben.
+In diesen Gebirgen sind ursprünglich vor allem kleine Völker zu finden, insbesondere Zwerge, Halblinge, Goblins, Gnomen und Kobolde.
 
 # Politik
 Der Alpengrat hat nach wie vor kleiner freie Stämme, allerdings wurde das meiste Gebiet von der [[Die Union der Zwerge|Union der Zwerge]] beansprucht und in die Union eingegliedert. Insbesondere seit beginn des nun Hundert Jährigen Krieges, wurden Befestigungen und Passstraßen auf zuvor wildes Land gebaut.
 
-# Quelle des Lebens
-
+# Quellen des Lebens
+Für die Kupfer Drachen sind es die die Heiligen Kupfer Erze die sich durch das ganze Gebirge ziehen, aber insbesondere innerhalb der Drachen Klippen in einen Brunnen verflüssigen.

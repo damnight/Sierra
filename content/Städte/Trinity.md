@@ -5,11 +5,11 @@ publish: "true"
 Trinity ist eine riesige Stadt am Fuße des [[Der Mittlere Alpengrat|Mittleren Alpengrats]]. Sie ist unter den [[Drachen Klippen]] erbaut worauf das [[Trinity College]] steht. Die Stadt umringt den tiefen [[See der Freundschaft]]. Im Hafen werden Schiffe beladen und entladen um ihre Fracht auf dem [[Danuve]] zu verschiffen. Trinity ist Multikulturell aber es gibt dennoch Distrikte die sich auf die eine oder andere Kultur spezialisieren. Durch ihre nähe zur [[Unterwelt]] ist auch die [[Trinity Unterstadt]] stark bevölkert.
 ![[Trinity.jpg|800]]
 # Die Geschichte der Stadt
-Trinity ist eine große multikulturelle Stadt, gegründet im Jahr 440 AMC von [[Arturuk dem Tapferen]] am Rande der Bronze‑Drachen Klippen. 
+Trinity ist eine große multikulturelle Stadt, gegründet im Jahr 440 AMC von [[Arturuk dem Tapferen]] am Rande der Kupfer‑Drachen Klippen. 
 Arturuk war eine fast mythische Gestalt, die in Herz, Seele und Tapferkeit herausragte. Er war der erste Freund der Drachen südlich des [[Der Nördliche Alpengrat|Nördlichen Alpengrats]]. Er gewann ihr Vertrauen und vergoldete es hundertfach, sodass die Drachen ihm ein zeitloses Blutband gewährten – ein Band unbekannter Kraft, das in der Geschichte dieser Welt ungebrochen blieb. Nachfolgende Generationen profitierten davon und wurden fortan den Drachen treu verbunden.
 
 ## Freundschaft mit den Gnollen der Mittleren Steppe
-Zur selben Zeit, im Jahr 444 AMC, waren die Drachen durch aufsteigende Zivilisationen der Region bedroht. Die [[Gnolle der Mittleren Steppe|Gnoll Clans]] in den Ebenen westlich waren ihrerseits vom bereits imposanten [[Das Reich der Sonne|Reich der Sonne]] bedrängt. Ein Handelsabkommen über Kupfer verschaffte ihnen Luft zum Atmen, jedoch mussten sie das Metall im [[Der Mittlere Alpengrat| Mittleren Alpengrat]] abbauen, dem Zuhause der Bronze‑Drachen. Tatsächlich lagen direkt unterhalb der Drachen Klippen reiche Vorkommen von Kupfer und Zink.
+Zur selben Zeit, im Jahr 444 AMC, waren die Drachen durch aufsteigende Zivilisationen der Region bedroht. Die [[Gnolle der Mittleren Steppe|Gnoll Clans]] in den Ebenen westlich waren ihrerseits vom bereits imposanten [[Das Reich der Sonne|Reich der Sonne]] bedrängt. Ein Handelsabkommen über Kupfer verschaffte ihnen Luft zum Atmen, jedoch mussten sie das Metall im [[Der Mittlere Alpengrat| Mittleren Alpengrat]] abbauen, dem Zuhause der Kupfer‑Drachen. Tatsächlich lagen direkt unterhalb der Drachen Klippen reiche Vorkommen von Kupfer und Zink.
 Arturuk ritt auf Borak und flog zu den Gnoll Clans, um einen Friedensvertrag zwischen ihnen und den Drachen auszuhandeln. 
 [[Gerak der Weise]] gehörte zum [[Der Große Rat der Schamane |Großen Rat der Schamane]], der höchsten politischen Autorität der Gnolle, und sorgte sich sehr um den Verlust ihrer freien Lebensweise zugunsten eines verfluchten Lebens in den Minen.
 So waren sowohl Arturuk als auch Gerak bestrebt, einen Handel zu finden, der die Gnolle von ihrem auferlegten Handelspakt befreite.
@@ -27,4 +27,4 @@ Ein Jahrzehnt nach der Gründung von Trinity, in 430 AMC, empfing Arturuk die Ma
 ## Tod und Verewigung der Gründungsväter
 Arturuk gelang es, eine neue Stadt am Wohnort ihres besten und lebenslangen Partners zu bauen, wo beide Kulturen in Frieden leben konnten – durch harte Arbeit, verschiedene Abkommen und ein gemeinsames Verständnis sowie Respekt füreinander.
 
-Als die Zeit gekommen war, legten sich Arturuk und Borak zur Ruhe am Rand der Drachen Klippe, und im Innenhof des Trinity Colleges wurden sie für immer in Bronze verewigt, blickend über den Sonnenuntergang und die Ebenen darunter.
+Als die Zeit gekommen war, legten sich Arturuk und Borak zur Ruhe am Rand der Drachen Klippe, und im Innenhof des Trinity Colleges wurden sie für immer in Kupfer verewigt, blickend über den Sonnenuntergang und die Ebenen darunter.

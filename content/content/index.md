@@ -3,12 +3,9 @@ publish: "true"
 ---
 # Willkommen in Sierra
 
-- [[Allgemeines Spielerdokument]]
+- [[Spielerdokument |Spieler Dokument]]
 - [[Recaps]]
 - [[Spieler Charaktere]]
-- [[Kampagnen]]
-
-
 
 # Geographie
 In diesem Kapitel findet ihr Beschreibungen zu Regionen, Einwohnern, Politik, Geographie und mehr
@@ -26,6 +23,8 @@ In diesem Kapitel findet ihr Beschreibungen zu Regionen, Einwohnern, Politik, Ge
 - [[Fjordheim]]
 - [[Insel Aido]]
 
+
+
 ## Städte
 - [[Trinity]]
 - [[Kulm]]
@@ -34,7 +33,7 @@ In diesem Kapitel findet ihr Beschreibungen zu Regionen, Einwohnern, Politik, Ge
 
 
 # Lore
-- [[Allgemeine Lore]]
+Hier gibt es Beschreibungen zu Ereignissen und Allgemeinwissen der Welt, je mehr ihr herausfindet, desto voller wird dieses Kapitel
 
 ## Ereignisse
 - [[Das Große Konzil]]

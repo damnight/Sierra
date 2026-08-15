@@ -4,10 +4,11 @@ publish: "true"
 # Index
 ### [[#Übersicht|Eigene Regeln]]
 ### [[Spells]]
-### [[Items]]
+### [[M - Magic Items|Items]]
 
 
-## Übersicht
+
+## Regelwerk
 
 ### [[Spells |Spells]] und Interaktionen
 Ihr dürft auch gerne eigene [[Spells |Spells]] erfinden oder Homebrew Spells aus dem Internet, anderen Editionen oder Regelsysteme (Pathfinder zum Beispiel) auf Absprache dazu nehmen. Die werden dann für alle veröffentlicht, spätestens nach dem ersten Wirken, kann aber auch davor sein, wenn ihr wollt.

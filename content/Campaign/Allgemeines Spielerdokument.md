@@ -7,7 +7,7 @@ Auf der Hohen See des [[Egeo Pelagos]] konkurrieren die die Armada der [[Repubbl
 Im Süden herrscht die [[Flora, Die Frühlingshexe, Die Verwüstung|Frühlings Hexe Flora]] über [[Tera'Ûhr|Tera'Ûhr]], isoliert von der Außenwelt in ihrem undurchdringlichen Dschungel. In den [[Der Dunkle Wald|Dunklen Wäldern]] südlich des Dschungels und in den ebenso dichten Wäldern der Alpen des Nordens jagt die [[Neith, Die Herbsthexe, Die Jägerin|Herbst Hexe Neith]] all jene die es wagen einzudringen.  
 Schließlich im hohen Norden, dem [[Eiswind Tal|Tal des Eisigen Windes]], erstarrt das Land unter dem ewigen Eis der [[Auril, Die Winterhexe, Die Ewigkeit |Winter Hexe Auril]]. 
 
-Einzig [[Trinity |Trinity]], eine imposante unabhängige Stadt vermochte sich von all diesen Konflikten mit Diplomatie, Bildung und Glück herauszuhalten. Dort erfährt die Bürgermeisterin [[Carla Custodia]] von den wissbegierigen Artificer des [[Trinity College]], dass sich am Rande des [[Eiswind Tal| Eiswind Tals]] eine Gefahr zusammenbraut die das Gleichgewicht der Kräfte auszuhebeln vermag. Augenzeugen sprechen von einem [[Obelisk |Obelisken]], so schwarz, dass kein Licht reflektiert. Gefährliche Wesen und seltsame Geschehnisse treten in ihrer Umgebung auf. Ihre Sensoren können es nicht aufspüren, vielmehr ist der Mangel des Signals, und die Ausbreitung dieses Lochs, nicht ganz ohne Muster, das was die Artificer beunruhigt.
+Einzig [[Trinity |Trinity]], eine imposante unabhängige Stadt vermochte sich von all diesen Konflikten mit Diplomatie, Bildung und Glück herauszuhalten. Dort erfährt die Bürgermeisterin [[Carla Custodia]] von den wissbegierigen Artificer des [[Trinity College]], dass sich am Rande des [[Eiswind Tal| Eiswind Tals]] eine Gefahr zusammenbraut die das Gleichgewicht der Kräfte auszuhebeln vermag. Augenzeugen sprechen von einem [[Obelisk|Obelisken]], so schwarz, dass kein Licht reflektiert. Gefährliche Wesen und seltsame Geschehnisse treten in ihrer Umgebung auf. Ihre Sensoren können es nicht aufspüren, vielmehr ist der Mangel des Signals, und die Ausbreitung dieses Lochs, nicht ganz ohne Muster, das was die Artificer beunruhigt.
 
 Kürzlich ist der neu eingeweihte [[Der Alpen Express|Alpen Express]] in den Norden aufgebrochen um mit einer Gruppe von Artificern des Trinity College und Unterstützern dem Obelisken auf die Spur zu gehen.
 
@@ -68,7 +68,7 @@ Dieses Kapitel führt euch in die Besonderheiten von Sierra ein.
 
 ## Eigene Regeln
 Hier kommen ein paar Homebrew Regeln dazu.
-![[Regelwerk#Übersicht|Auszug aus der Regelseite]]
+![[Regelwerk#Regelwerk|Auszug aus der Regelseite]]
 
 
 ## Charakter Erstellung

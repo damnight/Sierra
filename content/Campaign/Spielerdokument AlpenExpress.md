@@ -6,7 +6,7 @@ In dieser von Götter verlassenen Welt, kämpfen Königreiche, Republiken und Im
 Im Süden herrscht die [[Flora, Die Frühlingshexe, Die Verwüstung|Frühlings Hexe Flora]] über [[Tera'Ûhr|Tera'Ûhr]], isoliert von der Außenwelt in ihrem undurchdringlichen Dschungel. In den [[Der Dunkle Wald| Dunklen Wäldern]] südlich des Dschungels und in den dichten Wäldern der Alpen des Nordens jagt die [[Neith, Die Herbsthexe, Die Jägerin|Herbst Hexe Neith]] all jene die es wagen einzudringen.  
 Schließlich im hohen Norden, dem [[Eiswind Tal|Tal des Eisigen Windes]], erstarrt das Land unter dem ewigen Eis der [[Auril, Die Winterhexe, Die Ewigkeit |Winter Hexe Auril]]. 
 
-Einzig [[Trinity |Trinity]], eine imposante unabhängige Stadt vermochte sich von all diesen Konflikten mit Diplomatie, Bildung und Glück herauszuhalten. Dort erfährt die Bürgermeisterin [[Carla Custodia]] von den wissbegierigen Artificer des [[Trinity College]], dass sich am Rande des [[Eiswind Tal| Eiswind Tals]] eine Gefahr zusammenbraut die das Gleichgewicht der Kräfte auszuhebeln vermag. Augenzeugen sprechen von einem [[Obelisk |Obelisken]], so schwarz, dass kein Licht reflektiert. Gefährliche Wesen und seltsame Geschehnisse treten in ihrer Umgebung auf. Ihre Sensoren können es nicht aufspüren, vielmehr ist der Mangel des Signals, und die Ausbreitung dieses Lochs, nicht ganz ohne Muster, das was die Artificer beunruhigt.
+Einzig [[Trinity |Trinity]], eine imposante unabhängige Stadt vermochte sich von all diesen Konflikten mit Diplomatie, Bildung und Glück herauszuhalten. Dort erfährt die Bürgermeisterin [[Carla Custodia]] von den wissbegierigen Artificer des [[Trinity College]], dass sich am Rande des [[Eiswind Tal| Eiswind Tals]] eine Gefahr zusammenbraut die das Gleichgewicht der Kräfte auszuhebeln vermag. Augenzeugen sprechen von einem [[Obelisk 1|Obelisken]], so schwarz, dass kein Licht reflektiert. Gefährliche Wesen und seltsame Geschehnisse treten in ihrer Umgebung auf. Ihre Sensoren können es nicht aufspüren, vielmehr ist der Mangel des Signals, und die Ausbreitung dieses Lochs, nicht ganz ohne Muster, das was die Artificer beunruhigt.
 
 Es wird eine gefährliche Aufgabe, wo unsere Helden gut beraten wären, sich Freunde statt Feinde zu machen. Denn sie sind nicht die einzigen die den Obelisken untersuchen, und womöglich schlimmer, nutzen wollen.
 
@@ -14,7 +14,7 @@ Die Reise zum [[Das Nordfort |Nordfort]], das unweit des Obelisken liegt, wird m
 
 In dieser Story-Driven Kampagne wird es Quests und Encounter geben die lange Konsequenzen tragen. Schwere Kämpfe und Schlachten, die starke Krieger oder Magier fordern. Politik und Social Encounter die geschickte Diplomaten vor Herausforderungen stellen, und eine Welt in der viele verschiedene [[Fraktionen]] um Macht, Einfluss oder dem blanken Überleben kämpfen.
 
-Es gibt viele Aufgaben zu meistern um die Gefahren die Sierra aktuell und in Zukunft bedrohen abzuwenden. So werden sich nicht nur eine Heldengruppe auf die Reise begeben die Geheimnisse der [[Obelisk|Obeliske]] zu lüften und die Fraktionen die böses im Schilde führen zu bekämpfen.
+Es gibt viele Aufgaben zu meistern um die Gefahren die Sierra aktuell und in Zukunft bedrohen abzuwenden. So werden sich nicht nur eine Heldengruppe auf die Reise begeben die Geheimnisse der [[Obelisk 1|Obeliske]] zu lüften und die Fraktionen die böses im Schilde führen zu bekämpfen.
 
 ![[Sierra Region Nord-Ost.jpg]]
 
@@ -118,8 +118,8 @@ Ihr bekommt auf Level 2 einen zusätzlichen Feat eurer Wahl, der euer besonderes
 ### Backstory Anker
 Um ein paar Ideen zu inspirieren gebe ich euch hier noch ein paar Gedanken und Fragen die ihr mit euren Charakteren verbinden oder beantworten könnt. Bei allen Gedankenanstößen erzähle ich in Backstory Gesprächen gerne mehr um nicht alles, allen, von vornherein zu verraten.
 
-Weil wir den Fokus am Anfang auf die Zug Reise legen, die ein Setpiece ist, fokussiere ich erstmal dazu. Allerdings ist das Mysterium um den [[Obelisk]] und die Politische Verzwickung zwischen den Republiken, Regionen und Imperien für die weitere Geschichte relevanter. Während der Fahrt werdet ihr in diese eingeführt (dafür war der erste Arc auch gedacht). Entsprechend könnt ihr auch währenddessen genug Gründe finden weitermachen zu wollen.
-Besonders mächtige Fahrgäste sind weniger an der Zugfahrt selbst, sondern an dem sich zusammenbrauenden und radikalisierenden Konflikt, den das erscheinen des [[Obelisk|Obelisks]] prophezeit, interessiert. Jedenfalls solange bis Probleme während der Zugfahrt sie persönlich betreffen.
+Weil wir den Fokus am Anfang auf die Zug Reise legen, die ein Setpiece ist, fokussiere ich erstmal dazu. Allerdings ist das Mysterium um den [[Obelisk 1]] und die Politische Verzwickung zwischen den Republiken, Regionen und Imperien für die weitere Geschichte relevanter. Während der Fahrt werdet ihr in diese eingeführt (dafür war der erste Arc auch gedacht). Entsprechend könnt ihr auch währenddessen genug Gründe finden weitermachen zu wollen.
+Besonders mächtige Fahrgäste sind weniger an der Zugfahrt selbst, sondern an dem sich zusammenbrauenden und radikalisierenden Konflikt, den das erscheinen des [[Obelisk 1|Obelisks]] prophezeit, interessiert. Jedenfalls solange bis Probleme während der Zugfahrt sie persönlich betreffen.
 
 Es werden viele Persönlichkeiten auf der ersten Reise präsent sein
 - An Board werden sicher sein

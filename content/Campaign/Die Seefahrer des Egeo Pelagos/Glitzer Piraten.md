@@ -31,9 +31,7 @@ Die Mannschaft besteht aus neun Kernmitgliedern und vielen ihrer Freunde, Bekann
 *Grung, Stars Druid*
 
 ![[Zippik.jpg#left|portrait]]Zippik ist eine talentierte Navigatorin. Vor Jahrzehnten strandeten Kapitän Fliegenbart und Björn Björgson auf ihrer Insel. Sie waren ohne jegliche Navigationskünste in See gestochen und hatten sich wie viele naive Seefahrer verloren. Zippik's Genossen waren von einem Gauner verflucht worden, der versuchte sie in Kröten zu verwandeln. Die beiden Gestrandeten halfen ihr ihn zur Strecke zu bringen und sie zerstörten diesen Fluch. Zippik fand dabei gefallen an den sympathischen idioten und schloss sich ihnnen an, denn sie wusste wie man [[Die Sternenkarten|die Sternenkarten]] liest und wurde so zur Navigatorin der Glitzer Piraten. Zippik ist weise, einfühlsam und ruhig. Dennoch liebt sie es die Chaoten bei ihren wahnwitzigen Abenteuern zu begleiten. In der Nacht, wenn für ein paar Stunden ruhe einkehrt, liest sie die Sterne und findet den Weg der die Schimmer in aller Eile ans Ziel bringen wird.
-
 <br style="clear: both;"> 
-
 *"Die Sterne weisen den Weg, der Verstand sucht den Pfad"*
 
 ## Arzt, Param Pox

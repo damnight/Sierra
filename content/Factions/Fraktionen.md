@@ -13,11 +13,12 @@ publish: "true"
 - [[Leviathan]]
 - [[Gong]]
 
-# Die Mächtigen des Südens
-- [[Phönix]]
-
 # Egeo Pelagos
+### Die Großmächte
 - [[Armada]]
 - [[Schatzflotte]]
 - [[Kaiserliche Marine]]
+
+### Piraten
 - [[Rote Flaggen Flotte]]
+- [[Glitzer Piraten]]

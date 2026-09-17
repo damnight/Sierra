@@ -4,9 +4,8 @@ publish: "true"
 # Willkommen in Sierra
 
 - [[Allgemeines Spielerdokument]]
-- [[Recaps]]
-- [[Spieler Charaktere]]
-- [[Kampagnen]]
+- [[Kampagnen/Index|Index]]
+- 
 
 
 
@@ -40,5 +39,5 @@ In diesem Kapitel findet ihr Beschreibungen zu Regionen, Einwohnern, Politik, Ge
 - [[Das Große Konzil]]
 
 ## Fraktionen
-
+- [[Fraktionen]]
 

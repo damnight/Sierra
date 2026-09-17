@@ -1,6 +1,11 @@
 ---
 publish: "true"
 ---
-# Der Alpen Express
+# Der Alpen Express - Die Spürnasen
 - [[Die Jungefernfahrt des Alpen Express'|Recaps]]
-- [[Spieler Charaktere]]
+- [[Kampagnen/AlpenExpress/Spieler Charaktere|Spieler Charaktere]]
+
+# Die Seefahrer des Egeo Pelagos
+- [[Wir stechen in See!|Recaps]]
+- [[Kampagnen/EgeoPelagosPiraten/Spieler Charaktere|Spieler Charaktere]]
+- [[Glitzer Piraten]]

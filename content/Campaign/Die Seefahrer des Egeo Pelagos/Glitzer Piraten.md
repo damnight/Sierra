@@ -38,7 +38,7 @@ Die Mannschaft besteht aus neun Kernmitgliedern und vielen ihrer Freunde, Bekann
 
 ## Pauker, Kick
 *Octopus, Bard*
-![[Images/kick.jpg#left|portrait]]Kick spricht durch seine Trommeln. Wenn ein Sturm aufzieht, sich Feinde nähern oder eine Party steigt ist er hinterm Schlagzeug. Zum Rythmus seiner paukenschläge, den Trommeln der Freiheit, bewegt sich die Besatzung im Einklang. Er gibt den Ton an, wenn der Kapitän mit Sebelrasseln beschäftigt ist.
+![[Images/Kick.jpg#left|portrait]]Kick spricht durch seine Trommeln. Wenn ein Sturm aufzieht, sich Feinde nähern oder eine Party steigt ist er hinterm Schlagzeug. Zum Rythmus seiner paukenschläge, den Trommeln der Freiheit, bewegt sich die Besatzung im Einklang. Er gibt den Ton an, wenn der Kapitän mit Sebelrasseln beschäftigt ist.
 
 <br style="clear: both;"> *"Dum Dum-Dum"*
 

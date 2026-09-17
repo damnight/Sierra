@@ -4,6 +4,7 @@ publish: "true"
 # Geographie
 Der Dunkle Wald ist zweigeteilt. Es gibt die nördlichen Ausläufe zwischen den Bergen des [[Der Nördliche Alpengrat|Nördlichen Alpengrats]] und der südliche Kern, im Osten des [[Südlichen Alpengrat|Südlichen Alpengrats]].
 ![[dunklerWaldFlavour.jpg]]
+*Image: [Forest of Madness](https://zombiesplusworkshop.fandom.com/wiki/Forest_of_Madness?file=Forest_of_Madness.jpg) under Public Domain*
 
 # Bevölkerung
 In diesen Wäldern sind Kreaturen der Schatten, Werleute und all jene Zuhause die sich im Schatten des Dickichts statt der prallen Sonne wohl fühlen. Auch viele Orcs finden hier ihr Zuhause.

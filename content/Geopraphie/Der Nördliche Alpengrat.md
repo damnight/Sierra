@@ -2,8 +2,10 @@
 publish: "true"
 ---
 # Geographie
-Der Nördliche Alpengrat liegt zwischen [[Eiswind Tal]] und dem [[Das Reich der Sonne|Reich der Sonne]]. Zwischen seinen Bergen liegen die Ausläufe des [[Der Dunkle Wald|Dunklen Walds]] und im Osten liegt die [[Die Freie Handelsstadt von Kalahar|Küste von Kalashar]].
+Der Nördliche Alpengrat liegt zwischen [[Eiswind Tal]] und dem [[Das Reich der Sonne|Reich der Sonne]]. Zwischen seinen Bergen liegen die Ausläufe des [[Der Dunkle Wald|Dunklen Walds]] und im Osten liegt die [[Die Freie Handelsstadt von Kalahar|Küste von Kalahar]].
 ![[noerdlicherAlpengratLandscape.jpg]]
+
+
 # Bevölkerung
 Orks, Menschen, Werleute, Goblinoids, Kobolde, Gnome, Zwerge und viele mehr leben in dieser diversen Grenzregion zwischen Tundra, Berg und Ebene.
 

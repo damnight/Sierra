@@ -7,6 +7,7 @@ Das Eiswind Tal wird seinem Namen gerecht. Es liegt im Polar Kreis im hohen Nord
 [[Die Zehn im Norden]] haben sich um die drei Seen niedergelassen. *Maer Dualdon* im Westen und *Lac Dinneshere* im Osten bieten reichlich Fisch, auch den begehrten Elfenbeinkopf Karpfen. Die *Redwaters* im Süden ist so klein, dass der See meist über gefroren ist.
 Am Fuße des [[Der Drachenzahn|Drachenzahns]] liegt das [[Das Tal der Zwerge|Tal der Zwerge]] zwischen den Hügeln. Wälder gibt es wenig, einer schmückt die Küste von *Maer Dualdon* der andere liegt zwischen [[Bryn Shander]] und [[Good Mead]]. Ansonsten findet man Ausläufe von Wäldern zwischen den Bergen des [[Der Nördliche Alpengrat|Nördlichen Alpengrats]].
 ![[eiswindtalFlavour.jpeg]]
+*Image: [Icewind Dale](https://leonardhaas.artstation.com/projects/J9BV8n) by [Leonard Haas](https://leonardhaas.artstation.com/) under [Artstation - SCL](https://www.artstation.com/marketplace-product-eula).*
 
 # Karte
 ![[EiswindTal.jpg]]

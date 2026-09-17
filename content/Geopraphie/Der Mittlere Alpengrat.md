@@ -4,6 +4,8 @@ publish: "true"
 # Geographie
 Der Mittlere Alpengrat erstreckt sich von [[Kleinhausen]] über [[Trinity]] bis zur [[Die Front|Front]] im Norden. Er teilt die [[Die Mittlere Steppe|Mittlere Steppe]] von der [[Die Union der Zwerge|Union der Zwerge]]. Unter dem Alpengrat ist die [[Unterwelt]] besonders zugänglich und viele ihrer Tunnel durchziehen ihn.
 ![[mittlererAlpengratLandscape.jpg]]
+*Image: [Mountain Lake](https://urlich.art/projects/g2NvDK) by [Phillipp Ulrich](https://urlich.art/)*
+
 
 # Bevölkerung
 Von besonderer Bedeutung sind die Kupfer Drachen die ihr Zuhause in den [[Drachen Klippen]] über [[Trinity]] haben.

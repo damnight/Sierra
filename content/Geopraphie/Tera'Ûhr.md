@@ -4,6 +4,7 @@ publish: "true"
 # Geographie
 Ein weiter, für Außenseiter, undurchdringlicher Dschungel erstreckt sich südlich des [[Danuve]] bis in die trockenen Ebenen der [[Repubblica Fenisia]]. Im Osten wird sie durch den [[Südlichen Alpengrat]] zum [[Der Dunkle Wald|Dunkeln Wald]] abgegrenzt. 
 ![[terauhrLandscape.jpg]]
+*Image: [Elf Wood](https://www.artstation.com/artwork/KAodG) by [Rainman Page](https://www.artstation.com/rainmanpage) under [Artstation - SCL](https://www.artstation.com/marketplace-product-eula).*
 
 # Bevölkerung
 Im Dschungel leben aller Arten Fey, Elfen, Sylvaner und Pflanzen. Niemand wagte es bisher sie genauer zu klassifizieren. Jedoch glauben die meisten Außenseiter es sei insgeheim das Bevölkerungsreichste Gebiet des [[Der Große Kontinent|Großen Kontinents]].

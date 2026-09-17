@@ -24,7 +24,7 @@ In diesem Kapitel findet ihr Beschreibungen zu Regionen, Einwohnern, Politik, Ge
 - [[Egeo Pelagos]]
 - [[Der Große Strom]]
 - [[Fjordheim]]
-- [[Insel Aido]]
+- [[Aido]]
 
 ## Städte
 - [[Trinity]]

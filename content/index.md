@@ -4,7 +4,6 @@ publish: "true"
 # Willkommen in Sierra
 
 - [[Allgemeines Spielerdokument]]
-- [[Kampagnen/Index|Index]]
 - [[Kampagnen/Index|Kampagnen]]
 
 

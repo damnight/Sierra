@@ -5,7 +5,7 @@ publish: "true"
 
 - [[Allgemeines Spielerdokument]]
 - [[Kampagnen/Index|Index]]
-- 
+- [[Kampagnen/Index|Kampagnen]]
 
 
 

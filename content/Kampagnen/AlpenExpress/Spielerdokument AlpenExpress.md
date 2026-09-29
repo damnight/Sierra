@@ -51,7 +51,7 @@ Dieses Kapitel führt euch in die Besonderheiten von Sierra ein.
 In dieser Welt gibt es keine [[Die Götter | Götter]]. Ebenso keine [[Die Ur Drachen |Wahren Drachen]]. In ihrer Statt sind andere mächtige Wesen getreten. Im Norden dieses Kontinents sind vor allem die [[Fraktionen#Die Hexen der Vier Jahreszeiten|Hexen der Vier Jahreszeiten ]]die Machtpole. Jedoch haben die meisten Kulturen ihre eigenen [[Patrone |Patronen]]. Die [[Die Union der Zwerge |Zwerge in der Union]] verehren ihre Gründungsväter [[Brokk]] und [[Sindri]]; In Trinity wird meist dem Gründer [[Arturuk | Arturuk]] dem Mutigen und seinem lesser Kupfer [[Borak | Drachen Borak]] gedacht. Borak's Nachfahren leben noch heute in der Klippe unter Trinity College.  
 
 ### Seelenkreislauf und Artenvielfalt
-Alle Seelen entspringen den vielen [[Die Quellen des Lebens |Quellen des Lebens]], der Brunnen des Ursprungs, der Wiegen des Lebens, der Lebensbäume und je nach [[A - Arten und Kulturen|Kultur]], auch andere Namen und Konzepte.
+Alle Seelen entspringen den vielen [[Die Quellen des Lebens |Quellen des Lebens]], der Brunnen des Ursprungs, der Wiegen des Lebens, der Lebensbäume und je nach [[K - Kulturen und Arten|Kultur]], auch andere Namen und Konzepte.
 
 So sind Lebewesen nur fruchtbar wenn sie in Ihnen getauft wurden, denn nur so kann eine neue Seele geschaffen werden. Nach dem Tod fließt eine Seele zurück in ihre Quelle des Lebens. Während Tiere instinktiv darin baden ist es unter vielen Kulturen Brauch ein Ritual aus der Taufe zu machen. Manche bei Geburt, andere bei der Hochzeit, dem antreten eines Amts, an bestimmten Daten des Jahres oder auch ganz individuell, je nach Kultur.
 
@@ -152,7 +152,7 @@ Ein Wort zu den Themen die die Mächtigen umtreibt
 ## Appendix
 Hier noch ein paar Zusätze die keineswegs fest stehen und gerne ergänzt, verändert oder gelöscht werden können.  
 
-- [[A - Arten und Kulturen]]
+- [[K - Kulturen und Arten]]
 - [[F - Feats]]
 - [[M - Magic Items]]
 - [[S - Spells]]

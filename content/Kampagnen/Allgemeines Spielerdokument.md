@@ -91,7 +91,10 @@ Ihr bekommt auf Level 2 einen zusätzlichen Feat eurer Wahl, der euer besonderes
 ## Appendix
 Hier noch ein paar Zusätze die keineswegs fest stehen und gerne ergänzt, verändert oder gelöscht werden können.  
 
-- [[A - Arten und Kulturen]]
+- [[AM - Arkana Material]]
+- [[AT - Arkana Technologie]]
+- [[K - Kulturen und Arten]]
 - [[F - Feats]]
 - [[M - Magic Items]]
+- [[P - Pflanzen]]
 - [[S - Spells]]

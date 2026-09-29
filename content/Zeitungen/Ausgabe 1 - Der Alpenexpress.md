@@ -35,4 +35,4 @@ Eine Vorführung für die Geschichtsbücher! Die Aufführung des Musical Tanzsch
 ![[schalundsitefel.jpg]]
 
 # PDF
-![[AusgabeAlpenExpress.pdf]]
+[Nordfort Abendzeitung pdf von google drive](https://drive.google.com/file/d/18ms3Y-rUIfB96jJqm2MSnVXe-DrLtby4/view?usp=sharing)

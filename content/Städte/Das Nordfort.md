@@ -16,6 +16,7 @@ Den [[#Bahnhof]] findet man innerhalb an der südlichen Mauer. An die Klippen ge
 
 ## Konzilarium
 
-## Akademie
+## Die Arktische Akademie
+Die Arktische Akademie hängt tief zwischen den Klippen des Nordforts und wirft einen weiten Schatten über das Zentrum. Sie ist weltbekannt für ihre Ingenieurskunst mit Excellenz. Studenten aus aller Welt, kommen hier her um die Kunst zu lernen mit denen sie ihre eigene Heimat verwandeln können.
 
 ## Bahnhof

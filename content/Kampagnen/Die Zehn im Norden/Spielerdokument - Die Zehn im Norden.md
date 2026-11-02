@@ -6,7 +6,7 @@ publish: "true"
 [[Das Tal der Zwerge]] ist eine Siedlung von hauptsächlich Zwergen, im Schatten des [[Der Drachenzahn|Drachenzahns]]. Sie sind autonom, aber den Zehn stets freundlich gesinnt. Auch sie spüren die Krise, denn die Zehn können ihnen die Rohstoffe nicht mehr gegen Nahrungsmittel handeln. 
 Die Zwerge hatten historisch Gute Beziehungen zu [[Underwinter]] einer Zivilisation von Drow der [[Unterwelt]]. Allerdings mussten die Zwerge die Tore schließen, als die [[Die Schwarze Zitadelle|Schwarze Zitadelle]] eine Fraktion von Derro die Handelswege überfielen und drohten auch die Überwelt zu erobern. Der Kontakt mit [[Underwinter]] ist seither abgebrochen.
 
-## Ein Allgemeine Hook
+## Eine Allgemeine Hook
 Eines Tages zu Beginn des Abenteuers bildet sich eine Aurora über dem Gipfel des [[Der Drachenzahn|Drachenzahns]]. Sie strahlt hell und erscheint fast greifbar. Sie dehnt sich aus, wie ein Faden in den Fernen Norden.
 *Die Primäre Hook ist mit anderen Quests, Ereignissen und Fraktionen verbunden. Sie zu erforschen ist interessant, aber nicht die einzige und alleinige Möglichkeit zu interagieren. Eure Character Hooks machen den Rest.*
 
